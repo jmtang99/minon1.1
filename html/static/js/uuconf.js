@@ -1,0 +1,1 @@
+var uurl='http://localhost:8000/';
